@@ -1,0 +1,136 @@
+(undo-tree-save-format-version . 1)
+"74d176fff4245c72966eb01caa444dc4cf818854"
+[nil nil nil nil (25430 44161 275705 258000) 0 nil]
+([nil nil ((366 . 609) (#("
+" 0 1 (fontified nil)) . -366) (274 . 367) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (t . -1)) nil (25430 44161 275698 483000) 0 nil])
+([nil nil ((381 . 620) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -381) (378 . 380) (#("
+" 0 1 (fontified nil)) . -378) (274 . 379) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 367 (fontified nil)) . -1) (t 25430 44161 280850 849000)) nil (25430 44162 249796 493000) 0 nil])
+([nil nil ((389 . 628) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -389) (386 . 388) (#("
+" 0 1 (fontified nil)) . -386) (274 . 387) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 379 (fontified nil)) . -1) (t 25430 44162 254198 469000)) nil (25430 44238 135738 791000) 0 nil])
+([nil nil ((404 . 643) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 387 (fontified nil)) . -1) (t 25430 44238 138618 823000)) nil (25430 44937 961693 204000) 0 nil])
+([nil nil ((404 . 662) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 44937 977056 722000)) nil (25430 46076 66444 219000) 0 nil])
+([nil nil ((404 . 688) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t nil))))" 0 258 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46076 71968 540000)) nil (25430 46103 902795 844000) 0 nil])
+([nil nil ((404 . 701) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t (:background \"deep sky blue\")))))" 0 284 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46103 915576 228000)) nil (25430 46449 449138 252000) 0 nil])
+([nil nil ((404 . 701) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t (:background \"#00ffff\" :foreground \"cyan\")))))" 0 297 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46449 480869 527000)) nil (25430 46452 615144 701000) 0 nil])
+([nil nil ((404 . 701) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t (:background \"#00ffff\" :foreground \"cyan\")))))" 0 297 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46452 630887 382000)) nil (25430 46452 795992 977000) 0 nil])
+([nil nil ((404 . 698) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t (:background \"#00ffff\" :foreground \"cyan\")))))" 0 297 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46452 800888 347000)) nil (25430 46483 378472 765000) 0 nil])
+([nil current ((404 . 698) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(cursor ((t (:background \"cyan\" :foreground \"cyan\")))))" 0 294 (fontified nil)) . -404) (401 . 403) (#("
+" 0 1 (fontified nil)) . -401) (274 . 402) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(evil-multiedit evil-mc org-present visual-fill-column airline-themes doom-themes no-littering undo-tree evil use-package)))" 0 402 (fontified nil)) . -1) (t 25430 46483 381065 23000)) nil (25430 46529 587772 212000) 0 nil])
+nil

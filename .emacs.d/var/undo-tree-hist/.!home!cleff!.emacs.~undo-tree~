@@ -1,0 +1,27 @@
+(undo-tree-save-format-version . 1)
+"153b885b1646336e7e54b6856a2aeb6e86fa3c42"
+[nil nil nil nil (25430 44147 726968 964000) 0 nil]
+([nil nil ((332 . 571) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -332) (1 . 331) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages '(no-littering undo-tree evil use-package)))" 0 318 (fontified nil)) . -1) (t 25430 44138 190509 207000)) nil (25430 44147 726963 656000) 0 nil])
+([nil current ((350 . 589) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -350) (347 . 349) (#("
+" 0 1 (fontified nil)) . -347) (274 . 348) (#(" " 0 1 (fontified nil)) . 274) (1 . 275) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages '(doom-themes no-littering undo-tree evil use-package)))" 0 330 (fontified nil)) . -1) (t 25430 44147 730651 1000)) nil (25430 44151 754763 941000) 0 nil])
+nil
